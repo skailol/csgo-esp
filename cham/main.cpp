@@ -5,12 +5,9 @@
 
 namespace offsets
 {
-    // client
     constexpr uintptr_t localPlayer = 0xDEB964;
     constexpr uintptr_t entityList = 0x4E01024;
     constexpr uintptr_t glowObjectManager = 0x535BAD0;
-
-    // lp
     constexpr uintptr_t TeamNum = 0xF4;
     constexpr uintptr_t GlowIndex = 0x10488;
 }
